@@ -1,0 +1,12 @@
+00:00:00:00 HeatLosses 1
+00:00:00:00 HeatGain 1
+00:00:01:00 HeatLosses 2
+00:00:01:00 HeatGain 1
+00:00:02:00 HeatLosses 3
+00:00:02:00 HeatGain 5
+00:00:03:00 HeatLosses 0
+00:00:03:00 HeatGain 2
+00:00:04:00 HeatLosses 2
+00:00:04:00 HeatGain 3
+00:00:05:00 HeatLosses 5
+00:00:05:00 HeatGain 1
